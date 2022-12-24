@@ -1,14 +1,11 @@
 ![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<!-- Header start -->
 <h1 align="center"> 👋 Welcome to my Github profile</a>
 <h1 align="center">I'm João Piccini</a></h1>
+<h3 align="center">A developer student from Brazil</h3>
+
 <p align="center">
-
-<h3 align="center">I'm a developer student from Brazil</h3>
-
 <a href="https://linkedin.com/in/joaopedropiccini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaopedropiccini" height="30" width="40" /></a>
 <a href="https://instagram.com/joaoppiccini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoppiccini" height="30" width="40" /></a>
-
 </p>
 
 - 🔭 I’m currently working on **My portfolio**
