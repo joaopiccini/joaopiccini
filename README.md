@@ -19,8 +19,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopiccini&label=Profile%20views&color=0e75b6&style=flat" alt="joaopiccini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaopiccini" alt="joaopiccini" /></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopiccini&show_icons=true&locale=en" alt="joaopiccini" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopiccini&show_icons=true&locale=en&layout=compact" alt="joaopiccini" /></p>
